@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Video for only $5 on PacktPub.com](https://www.packtpub.com/product/react-native-expo-from-beginner-to-pro-also-with-meteorjs-video/9781789954647)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # React-Native-Expo-from-Beginner-to-Pro---Also-with-MeteorJS
 Code repository for React Native Expo from Beginner to Pro - Also with MeteorJS, Published by Packt
 # React-Native-Expo-from-Beginner-to-Pro---Also-with-MeteorJS
